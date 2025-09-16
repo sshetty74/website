@@ -187,7 +187,7 @@
   gap: 10px;
   align-items: center;
   justify-content: center;
-  position: absolute;
+  position: relative;
   left: 50%;
   translate: -50%;
 }
@@ -201,7 +201,7 @@
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  top: 554px;
+  margin-top: 650px;
 }
 .frame-14 {
   padding: 10px;
@@ -215,7 +215,7 @@
   top: 225px;
 }
 .budt-748-is-a-capstone-course-for-ms-information-systems-is-majors-where-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-implement-functional-prototypes-that-solve-practical-business-challenges-preparing-them-for-careers-in-technology-and-consulting-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-semester-details-fall-2025 {
-  color: #fffefe;
+  color: #ffffff;
   text-align: left;
   font-family: "-", sans-serif;
   font-size: 24px;
