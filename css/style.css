@@ -152,10 +152,10 @@
   gap: 10px;
   align-items: center;
   justify-content: center;
-  position: absolute;
+  position: relative;
   left: 50%;
   translate: -50%;
-  top: 268px;
+  top: 200px;
 }
 .my-website-design-b-e-in-computer-science-engineering-4-years-as-programmer-analyst-at-oracle {
   color: #fffefe;
@@ -186,7 +186,7 @@
   justify-content: flex-start;
   width: 180px;
   height: 57px;
-  position: absolute;
+  position: relative;
   left: 50%;
   translate: -50%;
   top: 568px;
@@ -198,6 +198,7 @@
   flex-shrink: 0;
   height: 57px;
   position: relative;
+  margin-top: -275px;
 }
 .get-started {
   color: #fffbfb;
@@ -209,11 +210,11 @@
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: 595px;
   display: flex;
   align-items: flex-end;
   justify-content: center;
   -webkit-text-stroke: 1px #000000;
+  top: 525px;
 }
 .frame-12 {
   padding: 10px;
@@ -225,7 +226,6 @@
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: 754px;
 }
 .sahithya-shetty-university-of-maryland-fall-2025 {
   color: #ffffff;
@@ -238,5 +238,5 @@
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  margin-bottom: 30px;
+  margin-top: 450px;
 }

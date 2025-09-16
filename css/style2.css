@@ -190,7 +190,6 @@
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: 754px;
 }
 .sahithya-shetty-university-of-maryland-fall-2025 {
   color: #ffffff;
@@ -199,11 +198,10 @@
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
-  position: relative;
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  top: 754px;
+  top: 554px;
 }
 .frame-14 {
   padding: 10px;
