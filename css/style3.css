@@ -169,7 +169,7 @@
   top: 171px;
 }
 .contact-us {
-  color: #fffefe;
+  color: #ffff;
   text-align: left;
   font-family: "Montserrat-Bold", sans-serif;
   font-size: 50px;
@@ -190,7 +190,7 @@
   position: relative;
   left: 50%;
   translate: -50%;
-  top: 754px;
+  top: 700px;
 }
 .sahithya-shetty-university-of-maryland-fall-2025 {
   color: #ffffff;
@@ -199,11 +199,10 @@
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
-  position: relative;
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  margin-top: 450px;
+  top: 530px;
 }
 .frame-14 {
   padding: 10px;
